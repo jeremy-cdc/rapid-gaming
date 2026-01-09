@@ -8,10 +8,10 @@ function Footer() {
                     <Link href="https://jeremydiaz.netlify.app/" title="Creador" target="_blank" rel="noopener noreferrer">
                         Creador
                     </Link>
-                    <Link href="https://github.com/jevmydev" title="Github" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://github.com/jeremy-cdc" title="Github" target="_blank" rel="noopener noreferrer">
                         Github
                     </Link>
-                    <Link href="https://www.linkedin.com/in/jevmydev/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://www.linkedin.com/in/jeremycdc/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
                         LinkedIn
                     </Link>
                 </div>

@@ -21,7 +21,7 @@ Embárcate en la épica aventura del **gaming** con miles de **videojuegos** ten
 
 **¡Código abierto al mundo!**
 
--   Puedes utilizar el producto realizando un `git clone https://github.com/jevmydev/rapid-gaming` en tu terminal.
+-   Puedes utilizar el producto realizando un `git clone https://github.com/jeremy-cdc/rapid-gaming` en tu terminal.
 -   Luego emplear `npm run dev` en tu terminal para desplegar un entorno de desarrollo en la web.
 -   Es necesario crear el archivo `.env.local`.
 -   Después, crear las keys: `VITE_GAMES_KEY` (generado en `https://rawg.io/apidocs`) - `VITE_RAPID_KEY` (generado en `https://rapidapi.com/hub`)
